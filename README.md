@@ -1,3 +1,12 @@
+
+Clone the Project
+open the Folder in VS code
+go to my-app folder in terminal
+run npm install in terminal wait for the libriaries to download
+then run npm start to run the peoject
+open http://localhost:3000/ to view the Project
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
